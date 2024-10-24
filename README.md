@@ -1,1 +1,6 @@
 # [ТЗ](https://disk.yandex.ru/i/7RvRoeAds12vZQ)
+# [Описание предметной области](https://disk.yandex.ru/i/BE86wzEZyskovg)
+# [Схема взаимодействия приложения](https://disk.yandex.ru/i/5FxC0sCWTYS53Q)
+# [Описание входной и выходной информации](https://disk.yandex.ru/i/vdm_gIXautKKPA)
+# [Контрольный пример](https://disk.yandex.ru/i/TAxbUNpLpeZ1cg)
+# [Презентация](https://disk.yandex.ru/i/NuXyaI5SfjhKuQ)
