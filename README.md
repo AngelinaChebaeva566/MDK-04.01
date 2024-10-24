@@ -1,1 +1,1 @@
-# [ТЗ] (https://disk.yandex.ru/i/7RvRoeAds12vZQ)
+# [ТЗ](https://disk.yandex.ru/i/7RvRoeAds12vZQ)
